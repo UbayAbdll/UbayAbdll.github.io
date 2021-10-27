@@ -102,17 +102,17 @@ body{
 
   font-size: 16px;
 
-  margin-left: 90px;
+  margin-left: 105px;
 
   background: #b31aff;
 
-  cursor: pointer;
+ 
 
-  user-select: none;
+ 
 
   opacity: 0.6;
 
-  pointer-events: none;
+ 
 
   transition: all 0.3s ease;
 
